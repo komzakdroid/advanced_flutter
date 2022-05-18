@@ -1,6 +1,5 @@
-# advanced_flutter
+# Advanced Flutter Project with Clean Architecture
 
-A new Flutter project.
 
 ## Getting Started
 
